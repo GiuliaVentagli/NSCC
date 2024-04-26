@@ -6,7 +6,7 @@ The EOS is modelled by three regions:
 - at high-density, for $\rho>2\rho_0$ the nuclear matter undergoes a QCD phase transition, and we employ a phenomenological EOS (https://arxiv.org/abs/1804.02783).
 - in the inner stellar core, for pressure values larger than $(200, \text{MeV})^4$, we assume that a vacuum energy phase transition occurs, and we use a phenomenological EOS.
 
-The general description for the EOS model is provided in arXiv:23....
+The general description for the EOS model is provided in arXiv:24....
 
 In the code we employ units in which G=c=M_sun=1, but rescaling factors are provided.
 
